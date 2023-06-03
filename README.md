@@ -13,8 +13,8 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 ### To-do Project:
 ## Github link: https://github.com/tannguyen2907/image-filter-project
 ## Screenshot is in screenshot
-#1 Deployment Screenshot 
-#2 EB deploy screenshot URL
+1. Deployment Screenshot 
+2. EB deploy screenshot URL
 ### EB Deployment Endpoint URL:
 http://image-filter-starter-code-dev22.us-west-2.elasticbeanstalk.com
 
