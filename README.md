@@ -16,5 +16,6 @@ A basic Ionic client web application which consumes the RestAPI Backend. [Covere
 1. Deployment Screenshot 
 2. EB deploy screenshot URL
 ### EB Deployment Endpoint URL:
-http://image-filter-starter-code-dev22.us-west-2.elasticbeanstalk.com
+URL: http://image-filter-project-dev.us-east-1.elasticbeanstalk.com/
+URL with image: http://image-filter-project-dev.us-east-1.elasticbeanstalk.com/filteredimage?img_url=https://images2.thanhnien.vn/528068263637045248/2023/6/2/21a1-16857263168661265849243.jpg
 
